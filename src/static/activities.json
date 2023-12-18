@@ -10423,5 +10423,50 @@
 "average_speed": 0.48,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10393914704,
+"name": "Pool Swim",
+"distance": 175.0,
+"moving_time": "0:06:10",
+"type": "Swim",
+"start_date": "2023-12-17 10:13:35+00:00",
+"start_date_local": "2023-12-17 18:13:35",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 109.7,
+"average_speed": 0.473,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10393914642,
+"name": "Pool Swim",
+"distance": 550.0,
+"moving_time": "0:19:41",
+"type": "Swim",
+"start_date": "2023-12-17 10:52:51+00:00",
+"start_date_local": "2023-12-17 18:52:51",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 134.4,
+"average_speed": 0.466,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10393914596,
+"name": "Pool Swim",
+"distance": 100.0,
+"moving_time": "0:03:05",
+"type": "Swim",
+"start_date": "2023-12-17 11:15:16+00:00",
+"start_date_local": "2023-12-17 19:15:16",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 135.0,
+"average_speed": 0.541,
+"source": "strava",
+"streak": 1
 }
 ]
