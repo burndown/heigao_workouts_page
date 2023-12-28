@@ -10558,5 +10558,35 @@
 "average_speed": 2.484,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10442393033,
+"name": "Morning Walk",
+"distance": 3335.8,
+"moving_time": "0:16:06",
+"type": "Hike",
+"start_date": "2023-12-27 00:34:20+00:00",
+"start_date_local": "2023-12-27 08:34:20",
+"location_country": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662, \u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "s}zrFm{~dUGgA?}BOiC?y@",
+"average_heartrate": 93.6,
+"average_speed": 3.453,
+"source": "strava",
+"streak": 4
+},
+{
+"run_id": 10442391315,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662\u5bb6\u5c5e\u9662 / \u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 1149.3,
+"moving_time": "0:15:27",
+"type": "Hike",
+"start_date": "2023-12-27 00:34:21+00:00",
+"start_date_local": "2023-12-27 08:34:21",
+"location_country": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662, \u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "s}zrFo{~dUGeA?}BOiC?y@",
+"average_heartrate": 95.5,
+"average_speed": 1.24,
+"source": "strava",
+"streak": 4
 }
 ]
