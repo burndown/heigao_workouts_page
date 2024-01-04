@@ -11008,5 +11008,50 @@
 "average_speed": 1.291,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 10483390204,
+"name": "Lunch Run",
+"distance": 1117.9,
+"moving_time": "0:07:18",
+"type": "Run",
+"start_date": "2024-01-03 03:38:41+00:00",
+"start_date_local": "2024-01-03 11:38:41",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "eaesFqq}eUDEJ]BAVALGf@e@j@_@d@s@\\Q\\]`@w@La@LQJElAB\\WBGDM@[L}@Do@BIfEeEbAi@r@k@",
+"average_heartrate": 147.1,
+"average_speed": 2.552,
+"source": "strava",
+"streak": 6
+},
+{
+"run_id": 10489274193,
+"name": "Morning Run",
+"distance": 750.0,
+"moving_time": "0:04:33",
+"type": "Run",
+"start_date": "2024-01-03 23:57:45+00:00",
+"start_date_local": "2024-01-04 07:57:45",
+"location_country": "\u961c\u5b89\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "oadsFmo}eUODe@d@aAr@g@l@w@r@a@p@_@^SZ_BjA",
+"average_heartrate": 150.4,
+"average_speed": 2.747,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 10489274452,
+"name": "\u5317\u4eac\u5e02, \u5b9d\u661f\u56ed / \u5317\u4eac\u5e02, \u671b\u4eac",
+"distance": 744.2,
+"moving_time": "0:04:41",
+"type": "Run",
+"start_date": "2024-01-03 23:57:45+00:00",
+"start_date_local": "2024-01-04 07:57:45",
+"location_country": "\u961c\u5b89\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "kadsFmo}eUOBGDc@b@aAr@i@n@o@j@_@l@g@h@U\\wAdA",
+"average_heartrate": 150.5,
+"average_speed": 2.648,
+"source": "strava",
+"streak": 7
 }
 ]
