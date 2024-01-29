@@ -11818,5 +11818,20 @@
 "average_speed": 2.637,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10644908191,
+"name": "Pool Swim",
+"distance": 549.0,
+"moving_time": "0:18:52",
+"type": "Swim",
+"start_date": "2024-01-28 09:02:58+00:00",
+"start_date_local": "2024-01-28 17:02:58",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 149.9,
+"average_speed": 0.485,
+"source": "strava",
+"streak": 3
 }
 ]
