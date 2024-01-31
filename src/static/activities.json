@@ -11848,5 +11848,35 @@
 "average_speed": 2.514,
 "source": "strava",
 "streak": 4
+},
+{
+"run_id": 10657801313,
+"name": "Lunch Run",
+"distance": 2006.4,
+"moving_time": "0:12:26",
+"type": "Run",
+"start_date": "2024-01-30 03:42:15+00:00",
+"start_date_local": "2024-01-30 11:42:15",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "eaesFwq}eUNc@f@If@[|@s@`@o@v@m@r@gBFCF?`@DXATGVMJQF{@N]f@s@^Uj@m@~AgAd@e@l@_@XKT?LCVOTIV?b@Hl@AFDDFEz@?lAI~@@PNj@@\\W|DKf@ALHVb@d@XNL?HIRc@Za@nA_ApAwAz@cAHWASIUk@}@G[?_@LW\\e@nAiAb@g@FMBI?QMm@A]BUFO",
+"average_heartrate": 157.9,
+"average_speed": 2.689,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 10657801515,
+"name": "\u5317\u4eac\u5e02, \u6167\u8c37\u6839\u56ed / \u5317\u4eac\u5e02, \u7eff\u5730\u4e2d\u5fc3",
+"distance": 2001.8,
+"moving_time": "0:12:25",
+"type": "Run",
+"start_date": "2024-01-30 03:42:15+00:00",
+"start_date_local": "2024-01-30 11:42:15",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "gaesFuq}eUPe@f@Id@W~@w@`@o@t@k@HKb@oAFMLCb@DXA\\KRMFOF{@Pa@d@m@\\Sl@o@~AiA`@a@r@c@ZKZ?^SVGV?\\Hn@ADBDJEx@?hAIbABVLd@@VWbEKd@ANHV`@`@VPDBJAHIPa@\\c@lA}@rAyAz@cAHSAWGSm@_AG[AYL[^g@nAiAh@q@DM?KMs@A]BWJS",
+"average_heartrate": 157.8,
+"average_speed": 2.687,
+"source": "strava",
+"streak": 5
 }
 ]
