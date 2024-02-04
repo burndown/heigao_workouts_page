@@ -11968,5 +11968,50 @@
 "average_speed": 0.994,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 10684755154,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u592e\u6c11\u65cf\u5927\u5b66",
+"distance": 0.1,
+"moving_time": "0:00:03",
+"type": "Ride",
+"start_date": "2024-02-03 06:24:32+00:00",
+"start_date_local": "2024-02-03 14:24:32",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 0.02,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 10684755349,
+"name": "Afternoon Ride",
+"distance": 0.1,
+"moving_time": "0:00:03",
+"type": "Ride",
+"start_date": "2024-02-03 06:24:32+00:00",
+"start_date_local": "2024-02-03 14:24:32",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 0.0,
+"average_speed": 0.02,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 10684790793,
+"name": "Afternoon Run",
+"distance": 1224.0,
+"moving_time": "0:08:05",
+"type": "Run",
+"start_date": "2024-02-03 06:34:42+00:00",
+"start_date_local": "2024-02-03 14:34:42",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 129.8,
+"average_speed": 2.524,
+"source": "strava",
+"streak": 9
 }
 ]
