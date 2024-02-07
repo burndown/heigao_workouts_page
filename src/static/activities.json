@@ -12058,5 +12058,35 @@
 "average_speed": 2.659,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 10705652154,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u592e\u6c11\u65cf\u5927\u5b66",
+"distance": 670.8,
+"moving_time": "0:04:15",
+"type": "Run",
+"start_date": "2024-02-06 06:51:40+00:00",
+"start_date_local": "2024-02-06 14:51:40",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 137.9,
+"average_speed": 2.631,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10706314469,
+"name": "Afternoon Walk",
+"distance": 1017.4,
+"moving_time": "0:00:07",
+"type": "Hike",
+"start_date": "2024-02-06 08:57:53+00:00",
+"start_date_local": "2024-02-06 16:57:53",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 0.0,
+"average_speed": 145.346,
+"source": "strava",
+"streak": 2
 }
 ]
