@@ -12313,5 +12313,50 @@
 "average_speed": 0.26,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10784705363,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u56fd\u94c1\u9053\u79d1\u5b66\u7814\u7a76\u9662\u96c6\u56e2\u6709\u9650\u516c\u53f8 / \u5317\u4eac\u5e02, \u5b66\u9662\u5357\u8def60\u53f7\u9662",
+"distance": 326.6,
+"moving_time": "0:05:52",
+"type": "Hike",
+"start_date": "2024-02-18 08:28:06+00:00",
+"start_date_local": "2024-02-18 16:28:06",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 99.8,
+"average_speed": 0.928,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10784795617,
+"name": "Afternoon Walk",
+"distance": 1207.3,
+"moving_time": "0:02:54",
+"type": "Hike",
+"start_date": "2024-02-18 09:01:32+00:00",
+"start_date_local": "2024-02-18 17:01:32",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 106.8,
+"average_speed": 6.939,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 10784795724,
+"name": "\u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 140.0,
+"moving_time": "0:02:49",
+"type": "Hike",
+"start_date": "2024-02-18 09:01:32+00:00",
+"start_date_local": "2024-02-18 17:01:32",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 105.1,
+"average_speed": 0.828,
+"source": "strava",
+"streak": 2
 }
 ]
