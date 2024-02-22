@@ -12388,5 +12388,35 @@
 "average_speed": 2.65,
 "source": "strava",
 "streak": 3
+},
+{
+"run_id": 10805023179,
+"name": "Lunch Run",
+"distance": 1056.9,
+"moving_time": "0:08:13",
+"type": "Run",
+"start_date": "2024-02-21 03:34:58+00:00",
+"start_date_local": "2024-02-21 11:34:58",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "w`esFoq}eUBARDHERm@JQf@g@j@[Zk@XQ`@c@Xu@La@HMLEX@d@CTMRWHQJg@R_@XWRWXSl@q@XO^i@TMLQTSNI",
+"average_heartrate": 136.9,
+"average_speed": 2.144,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10805023348,
+"name": "\u5317\u4eac\u5e02, \u6167\u8c37\u6839\u56ed / \u5317\u4eac\u5e02, \u671b\u4eac",
+"distance": 1048.4,
+"moving_time": "0:08:10",
+"type": "Run",
+"start_date": "2024-02-21 03:34:58+00:00",
+"start_date_local": "2024-02-21 11:34:58",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "w`esFoq}eUBARDHERm@NUf@e@f@YVg@XSd@e@Xu@J_@HKNIV@f@CTMTYRy@R]XWPWZSl@q@XO\\g@VOLQTSPK",
+"average_heartrate": 136.9,
+"average_speed": 2.14,
+"source": "strava",
+"streak": 1
 }
 ]
