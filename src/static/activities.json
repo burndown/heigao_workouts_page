@@ -12763,5 +12763,35 @@
 "average_speed": 2.754,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 10909031033,
+"name": "Lunch Run",
+"distance": 17.3,
+"moving_time": "0:00:08",
+"type": "Run",
+"start_date": "2024-03-07 03:36:07+00:00",
+"start_date_local": "2024-03-07 11:36:07",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": null,
+"average_speed": 2.158,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 10913262006,
+"name": "\u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a / \u5317\u4eac\u5e02, \u5317\u4eac\u4ea4\u901a\u5927\u5b66",
+"distance": 4737.2,
+"moving_time": "0:34:43",
+"type": "Run",
+"start_date": "2024-03-07 23:18:29+00:00",
+"start_date_local": "2024-03-08 07:18:29",
+"location_country": "\u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "o|zrFaq_eUhAMx@Ob@MbACzCSfEg@~ABZE\\DNA`@Kn@_@VCh@?NAXKfAe@x@Mb@C`@Kp@Ip@Q\\Q`@YdCsCz@u@nAiB|@}Aj@}AR[Zs@h@s@Tg@l@_AJ]L[BUMeCCGMKEEAk@GUiB}G]uAQiAi@wBKs@a@oBWeAWoA[iAS}@o@_C[_AKMIAa@Hg@@q@R{ATWFiARe@DUHs@XsBh@o@JwAH_ALm@JYJsB\\oA^cB\\kBd@}APiBb@a@L[FUJWXOFK@U?q@FaCnAmC`Aw@^mBn@qBtAoCzDWf@EPEbC?dBF~@DxDFx@AnADzBDh@@l@C\\K`@Eb@A`@P|@RlBHpABrAf@@`@K`@DJBTAf@Or@a@LAHF",
+"average_heartrate": 140.5,
+"average_speed": 2.274,
+"source": "strava",
+"streak": 2
 }
 ]
