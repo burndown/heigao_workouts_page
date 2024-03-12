@@ -12793,5 +12793,20 @@
 "average_speed": 2.274,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 10934252403,
+"name": "Beijing, Huigu Genyuan / Beijing, Guofeng Beijing",
+"distance": 5080.2,
+"moving_time": "0:37:55",
+"type": "Run",
+"start_date": "2024-03-11 03:32:30+00:00",
+"start_date_local": "2024-03-11 11:32:30",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "gaesFsq}eUJMFWFAVARKfAcAZk@d@WPUVSXq@Lg@FKJEF?RHJ@^EHEf@u@Je@HO\\]LWXQXWXc@^OT[TONSXS^Sd@e@JCRAVQd@OZBXNx@ADB@F@LQtBC|@BVPf@BLIdA?~@En@Gf@Mh@DJl@h@RVHBD?DEN_@LEHGlB{BbA{@t@y@HQBKCO{@cBgAoCG]?SV_AHaALq@DMXUZKVAj@HFAZSP[HWHe@@e@?o@@OPa@Jm@`@w@NIRDF?JKDALB\\PJ?|AOd@?dAGx@Dl@VTBZCdA[NA|@H`ALXL`CrAR`@Ln@t@`Af@h@N^b@RZXb@r@LPx@b@hBrA\\b@vA~A@DMAUYYU[c@eBuAgAi@m@k@]MMCg@?s@Eq@Qs@Kw@AmBKwBRaAP{@To@\\s@NqAz@iAnAmAhAm@x@e@^]h@gAz@o@^YVw@f@W^w@~@sD`Do@`AHD`@`@n@d@zA|ApBfC`@l@JRBNVVf@Xl@f@\\j@~A`Bj@t@fBjB",
+"average_heartrate": 142.4,
+"average_speed": 2.233,
+"source": "strava",
+"streak": 1
 }
 ]
