@@ -12973,5 +12973,35 @@
 "average_speed": 2.271,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 10962469315,
+"name": "Lunch Walk",
+"distance": 2630.4,
+"moving_time": "0:22:24",
+"type": "Hike",
+"start_date": "2024-03-15 04:47:41+00:00",
+"start_date_local": "2024-03-15 12:47:41",
+"location_country": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66, 39\u53f7, \u5b66\u9662\u5357\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "sa{rFaeaeUKkDAmB?c@VLG@CBCD?RB`BPjFJrH@rFDv@NdBFhFNrB@hAFjA@jA",
+"average_heartrate": 107.1,
+"average_speed": 1.957,
+"source": "strava",
+"streak": 5
+},
+{
+"run_id": 10962469352,
+"name": "Beijing, China Academy of Railway Sciences Corporation Limited / Beijing, Academy of Agricultural Sciences Unit",
+"distance": 1688.7,
+"moving_time": "0:22:07",
+"type": "Hike",
+"start_date": "2024-03-15 04:47:42+00:00",
+"start_date_local": "2024-03-15 12:47:42",
+"location_country": "\u4e2d\u592e\u8d22\u7ecf\u5927\u5b66, 39\u53f7, \u5b66\u9662\u5357\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "sa{rFaeaeUKkDAmB@i@VRI@EBAXTrIJfH@xFDr@NhBFfFNrB@jAFjA@hA",
+"average_heartrate": 107.4,
+"average_speed": 1.273,
+"source": "strava",
+"streak": 5
 }
 ]
