@@ -13513,5 +13513,35 @@
 "average_speed": 2.198,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 11046122635,
+"name": "Beijing, Huigu Genyuan / Beijing, Greenland Center",
+"distance": 1405.7,
+"moving_time": "0:07:21",
+"type": "Run",
+"start_date": "2024-03-27 03:38:30+00:00",
+"start_date_local": "2024-03-27 11:38:30",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "caesFmq}eUD]DGb@IHEz@u@\\Sd@m@v@s@Tg@T{@FIJGpAF\\GJ@x@j@`@NTFvAA~@El@P`AFj@Rf@Tn@b@p@n@TFNENGnAiAt@k@nEcE",
+"average_heartrate": 162.1,
+"average_speed": 3.188,
+"source": "strava",
+"streak": 3
+},
+{
+"run_id": 11046122906,
+"name": "Lunch Run",
+"distance": 1417.3,
+"moving_time": "0:07:24",
+"type": "Run",
+"start_date": "2024-03-27 03:38:30+00:00",
+"start_date_local": "2024-03-27 11:38:30",
+"location_country": "\u5c4f\u7fe0\u4e1c\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "eaesFkq}eUF_@DEBEXCNGz@u@XOLKZe@r@o@JMJYXaALMHAXBt@BZGH@JDl@d@d@PRDpAA|@EN@j@Pt@D\\Jl@T|@n@n@h@LFH?^MhAeA|@o@jEaE",
+"average_heartrate": 162.1,
+"average_speed": 3.192,
+"source": "strava",
+"streak": 3
 }
 ]
