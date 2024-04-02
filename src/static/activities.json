@@ -13858,5 +13858,35 @@
 "average_speed": 1046.15,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 11082971978,
+"name": "Evening Walk",
+"distance": 2384.6,
+"moving_time": "0:06:51",
+"type": "Hike",
+"start_date": "2024-04-01 12:16:25+00:00",
+"start_date_local": "2024-04-01 20:16:25",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 83.1,
+"average_speed": 5.802,
+"source": "strava",
+"streak": 8
+},
+{
+"run_id": 11082971981,
+"name": "Beijing, Chinese Academy of Agricultural Sciences (Zhongguancun South Street) / Beijing, Academy of Agricultural Sciences Unit",
+"distance": 349.2,
+"moving_time": "0:06:14",
+"type": "Hike",
+"start_date": "2024-04-01 12:16:25+00:00",
+"start_date_local": "2024-04-01 20:16:25",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 79.2,
+"average_speed": 0.934,
+"source": "strava",
+"streak": 8
 }
 ]
