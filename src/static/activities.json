@@ -13933,5 +13933,35 @@
 "average_speed": 2.283,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 11097533453,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u56fd\u94c1\u9053\u79d1\u5b66\u7814\u7a76\u9662\u96c6\u56e2\u6709\u9650\u516c\u53f8 / \u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 1548.1,
+"moving_time": "0:29:25",
+"type": "Hike",
+"start_date": "2024-04-03 12:22:21+00:00",
+"start_date_local": "2024-04-03 20:22:21",
+"location_country": "\u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "}_{rFqjaeUEwA@k@FOFIb@Om@REF?PHpA@rAFzALvAFpCR~D@fBGlCFxBB`DLrBFtBRxADl@?\\MjB?f@",
+"average_heartrate": 91.1,
+"average_speed": 0.877,
+"source": "strava",
+"streak": 10
+},
+{
+"run_id": 11097534191,
+"name": "Evening Walk",
+"distance": 2584.4,
+"moving_time": "0:27:59",
+"type": "Hike",
+"start_date": "2024-04-03 12:22:21+00:00",
+"start_date_local": "2024-04-03 20:22:21",
+"location_country": "\u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "}_{rFqjaeUEwA@k@FODI`@Mi@PEF?PHpAHnDLvAFpCR~D@fBGlCFxBBbDLpBFtBRxADl@?\\MhB?h@",
+"average_heartrate": 90.5,
+"average_speed": 1.539,
+"source": "strava",
+"streak": 10
 }
 ]
