@@ -14533,5 +14533,35 @@
 "average_speed": 2.079,
 "source": "strava",
 "streak": 5
+},
+{
+"run_id": 11253278378,
+"name": "Running",
+"distance": 1964.2,
+"moving_time": "0:16:12",
+"type": "Run",
+"start_date": "2024-04-24 11:55:40+00:00",
+"start_date_local": "2024-04-24 19:55:40",
+"location_country": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662, \u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "c`|rFuw~dUNtAB~@FbAHTPJFAPKPCTO^Mp@M^Lj@Cl@Jf@Oh@Ev@@NCNKBIMs@AaACOKGO@YH[FoAh@k@Lo@?o@SaAAa@E{@FEDANPvBBLFFFBJ?v@Qb@Gp@G~@AVOx@QdAB|@CDEBUKmBEGIAw@HWJa@Tq@Na@F]C{@Sa@@[G]Dq@@_@LAHFLBTL\\Dr@FNB@TIb@?N@n@ETC",
+"average_heartrate": null,
+"average_speed": 2.021,
+"source": "strava",
+"streak": 6
+},
+{
+"run_id": 11256961507,
+"name": "\u5317\u4eac\u5e02, \u5927\u67f3\u6811\u8def2\u53f7\u9662\u897f\u533a / \u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 1216.1,
+"moving_time": "0:05:57",
+"type": "Ride",
+"start_date": "2024-04-24 21:45:36+00:00",
+"start_date_local": "2024-04-25 05:45:36",
+"location_country": "\u9ea6\u5f53\u52b3, \u4ea4\u5927\u4e1c\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100044, \u4e2d\u56fd",
+"summary_polyline": "}`{rFwcaeUHbCb@vYPjI",
+"average_heartrate": 99.2,
+"average_speed": 3.406,
+"source": "strava",
+"streak": 7
 }
 ]
