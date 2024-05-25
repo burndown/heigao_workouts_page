@@ -15733,5 +15733,35 @@
 "average_speed": 2.893,
 "source": "strava",
 "streak": 17
+},
+{
+"run_id": 11482958168,
+"name": "\u5317\u4eac\u5e02, Class\u679c\u5cad\u91cc\u5c0f\u533a / \u5317\u4eac\u5e02, \u6167\u8c37\u6839\u56ed",
+"distance": 516.1,
+"moving_time": "0:04:02",
+"type": "Hike",
+"start_date": "2024-05-24 00:19:46+00:00",
+"start_date_local": "2024-05-24 08:19:46",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 96.6,
+"average_speed": 2.133,
+"source": "strava",
+"streak": 18
+},
+{
+"run_id": 11484736977,
+"name": "\u5317\u4eac\u5e02, \u8fdc\u6d0b\u00b7\u4e07\u548c\u516c\u9986 / \u5317\u4eac\u5e02, \u5b9d\u661f\u56ed",
+"distance": 376.0,
+"moving_time": "0:03:48",
+"type": "Hike",
+"start_date": "2024-05-24 09:15:36+00:00",
+"start_date_local": "2024-05-24 17:15:36",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 98.6,
+"average_speed": 1.649,
+"source": "strava",
+"streak": 18
 }
 ]
