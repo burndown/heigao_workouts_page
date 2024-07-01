@@ -17248,5 +17248,35 @@
 "average_speed": 0.949,
 "source": "strava",
 "streak": 54
+},
+{
+"run_id": 11771111055,
+"name": "Indoor Running",
+"distance": 6005.7,
+"moving_time": "0:52:00",
+"type": "Run",
+"start_date": "2024-06-30 00:01:06+00:00",
+"start_date_local": "2024-06-30 08:01:06",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 149.8,
+"average_speed": 1.925,
+"source": "strava",
+"streak": 55
+},
+{
+"run_id": 11774738439,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662(\u4e2d\u5173\u6751\u5357\u5927\u8857) / \u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 817.9,
+"moving_time": "0:13:35",
+"type": "Hike",
+"start_date": "2024-06-30 12:28:24+00:00",
+"start_date_local": "2024-06-30 20:28:24",
+"location_country": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662, \u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "oa|rFa`_eUUmDGgB?YHOREz@?tBItC]^C|@A~BO",
+"average_heartrate": 88.4,
+"average_speed": 1.004,
+"source": "strava",
+"streak": 55
 }
 ]
