@@ -17593,5 +17593,35 @@
 "average_speed": 1.258,
 "source": "strava",
 "streak": 8
+},
+{
+"run_id": 11860839966,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u56fd\u4eba\u6c11\u5927\u5b66\u9644\u5c5e\u4e2d\u5b66\u5206\u6821 / \u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 865.4,
+"moving_time": "0:04:20",
+"type": "Ride",
+"start_date": "2024-07-11 10:14:15+00:00",
+"start_date_local": "2024-07-11 18:14:15",
+"location_country": "\u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "ak|rFgi_eUlBO~@Cr@IhCOfCMx@?~@KnBI",
+"average_heartrate": 96.5,
+"average_speed": 3.328,
+"source": "strava",
+"streak": 9
+},
+{
+"run_id": 11866567660,
+"name": "\u5317\u4eac\u5e02, \u679c\u5cad\u91cc\u793e\u533a / \u5317\u4eac\u5e02, \u6167\u8c37\u6839\u56ed",
+"distance": 103.5,
+"moving_time": "0:01:47",
+"type": "Hike",
+"start_date": "2024-07-12 00:21:58+00:00",
+"start_date_local": "2024-07-12 08:21:58",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 96.9,
+"average_speed": 0.967,
+"source": "strava",
+"streak": 10
 }
 ]
