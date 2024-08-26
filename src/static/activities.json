@@ -18478,5 +18478,20 @@
 "average_speed": 2.644,
 "source": "strava",
 "streak": 21
+},
+{
+"run_id": 12235104988,
+"name": "\u70df\u53f0\u5e02",
+"distance": 851.5,
+"moving_time": "0:13:28",
+"type": "Hike",
+"start_date": "2024-08-25 04:56:36+00:00",
+"start_date_local": "2024-08-25 12:56:36",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 83.4,
+"average_speed": 1.054,
+"source": "strava",
+"streak": 1
 }
 ]
