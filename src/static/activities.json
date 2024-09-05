@@ -18553,5 +18553,35 @@
 "average_speed": 2.294,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12320138238,
+"name": "\u5317\u4eac\u5e02, \u6e05\u534e\u5927\u5b66",
+"distance": 1315.2,
+"moving_time": "0:12:58",
+"type": "Hike",
+"start_date": "2024-09-03 23:56:49+00:00",
+"start_date_local": "2024-09-04 07:56:49",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 101.7,
+"average_speed": 1.69,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12320196155,
+"name": "Morning Walk",
+"distance": 1061.5,
+"moving_time": "0:11:42",
+"type": "Hike",
+"start_date": "2024-09-04 00:38:27+00:00",
+"start_date_local": "2024-09-04 08:38:27",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 110.8,
+"average_speed": 1.512,
+"source": "strava",
+"streak": 1
 }
 ]
