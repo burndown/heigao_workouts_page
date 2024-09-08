@@ -18583,5 +18583,50 @@
 "average_speed": 1.512,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12350204074,
+"name": "\u5317\u4eac\u5e02, \u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662(\u4e2d\u5173\u6751\u5357\u5927\u8857) / \u5317\u4eac\u5e02, \u5317\u4eac\u7406\u5de5\u5927\u5b66\u4e2d\u5173\u6751\u6821\u533a",
+"distance": 3533.0,
+"moving_time": "0:57:22",
+"type": "Hike",
+"start_date": "2024-09-07 11:44:12+00:00",
+"start_date_local": "2024-09-07 19:44:12",
+"location_country": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662, \u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "ow{rFi_~dUJb@Dl@?lBHx@DvAJh@DHHDNBx@Qb@D`@APDRNFJ@LAjBHtBFXBBD@LCJGHK@SGcAMgDKe@KGi@@{@JW@g@JS?UAKCO]GoAIOASDmAOcBAu@Uc@MmBEM@_BCk@B[C]Ak@KuABw@E}@@i@Ek@Ga@CCOAIUGCaDV]e@eAq@IOK_@HOA]De@^i@Ji@Ba@@kACSK_@Am@GyA?[BIFAT?`@C~@KrAAf@K^EfAALB[ULYLFJN`@NfCS",
+"average_heartrate": 87.4,
+"average_speed": 1.026,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12353782378,
+"name": "Morning Run",
+"distance": 1799.6,
+"moving_time": "0:12:02",
+"type": "Run",
+"start_date": "2024-09-07 23:33:28+00:00",
+"start_date_local": "2024-09-08 07:33:28",
+"location_country": "\u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "}{zrFkq_eUbB_@d@Eb@?lCe@jA?dBO`AM`@Av@Dj@Ez@IvAa@lAId@GJ?D@FNP`AD`@ApBHt@Bl@AbCTfG?fCD`@Nb@D\\B`ABzBDr@",
+"average_heartrate": 140.8,
+"average_speed": 2.492,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 12353782396,
+"name": "Morning Run",
+"distance": 5012.0,
+"moving_time": "0:33:02",
+"type": "Run",
+"start_date": "2024-09-07 23:50:15+00:00",
+"start_date_local": "2024-09-08 07:50:15",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 142.9,
+"average_speed": 2.529,
+"source": "strava",
+"streak": 2
 }
 ]
