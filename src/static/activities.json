@@ -18718,5 +18718,35 @@
 "average_speed": 1.627,
 "source": "strava",
 "streak": 6
+},
+{
+"run_id": 12396195358,
+"name": "Morning Walk",
+"distance": 712.8,
+"moving_time": "0:06:04",
+"type": "Hike",
+"start_date": "2024-09-13 00:27:36+00:00",
+"start_date_local": "2024-09-13 08:27:36",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 102.1,
+"average_speed": 1.958,
+"source": "strava",
+"streak": 7
+},
+{
+"run_id": 12398729308,
+"name": "Evening Ride",
+"distance": 1660.0,
+"moving_time": "0:09:12",
+"type": "Ride",
+"start_date": "2024-09-13 11:09:11+00:00",
+"start_date_local": "2024-09-13 19:09:11",
+"location_country": "\u4e2d\u5173\u6751\u4e1c\u8def, \u77e5\u6625\u4e1c\u91cc\u793e\u533a, \u4e2d\u5173\u6751\u8857\u9053, \u4e1c\u5347\u9547, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100098, \u4e2d\u56fd",
+"summary_polyline": "m||rFuw~dUDhIF`B@tDFhF",
+"average_heartrate": 100.9,
+"average_speed": 3.007,
+"source": "strava",
+"streak": 7
 }
 ]
