@@ -18868,5 +18868,35 @@
 "average_speed": 2.487,
 "source": "strava",
 "streak": 10
+},
+{
+"run_id": 12437788550,
+"name": "Morning Walk",
+"distance": 1192.6,
+"moving_time": "0:14:22",
+"type": "Hike",
+"start_date": "2024-09-18 00:25:42+00:00",
+"start_date_local": "2024-09-18 08:25:42",
+"location_country": "\u961c\u5b89\u8def, \u4e1c\u6e56\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100102, \u4e2d\u56fd",
+"summary_polyline": "obdsFyr}eU}AdBkElEwJnJiA~@",
+"average_heartrate": 118.3,
+"average_speed": 1.383,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12446428867,
+"name": "Morning Walk",
+"distance": 942.9,
+"moving_time": "0:10:30",
+"type": "Hike",
+"start_date": "2024-09-18 23:48:52+00:00",
+"start_date_local": "2024-09-19 07:48:52",
+"location_country": "\u671b\u4eac\u8857\u9053, \u4e1c\u8f9b\u5e97\u6751, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100015, \u4e2d\u56fd",
+"summary_polyline": "wmdsFer~eUeAlAkB~AoBpBs@l@wEtE",
+"average_heartrate": 88.7,
+"average_speed": 1.497,
+"source": "strava",
+"streak": 2
 }
 ]
