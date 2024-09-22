@@ -18898,5 +18898,35 @@
 "average_speed": 1.497,
 "source": "strava",
 "streak": 2
+},
+{
+"run_id": 12464764316,
+"name": "Afternoon Walk",
+"distance": 3348.4,
+"moving_time": "0:43:44",
+"type": "Hike",
+"start_date": "2024-09-21 08:39:30+00:00",
+"start_date_local": "2024-09-21 16:39:30",
+"location_country": "\u4e09\u9053\u6c9f\u6751, \u5f20\u5bb6\u53e3\u5e02, \u6cb3\u5317\u7701, \u4e2d\u56fd",
+"summary_polyline": "ua`yF{tx~Ta@o@gAk@oD[oABcAc@m@_@w@iACAkAIs@HeAZk@?qAEYc@NnAtFj^F~@@fAAj@GXKHOBEB_@IKIU]Bo@AFORMBI?CCLNIJ}@Vg@Rq@PcBnAU^SR[d@KTk@t@KBGEM]B@@NCh@MJQBD?k@p@IDOEu@j@W?KIHDFH?P?FQ^C]]PWBKEGDGAWDKAKH]DIDOCIFUDGBG?WMGFMBEFOAGHO@ULO?ONYJuCj@UJK?EFg@Rk@FYNIPO?g@Ti@NKHCH",
+"average_heartrate": 113.7,
+"average_speed": 1.276,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12471198948,
+"name": "Indoor Walking",
+"distance": 1955.7,
+"moving_time": "0:42:38",
+"type": "Hike",
+"start_date": "2024-09-21 23:34:21+00:00",
+"start_date_local": "2024-09-22 07:34:21",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 87.1,
+"average_speed": 0.765,
+"source": "strava",
+"streak": 2
 }
 ]
