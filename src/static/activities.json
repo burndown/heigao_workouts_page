@@ -19348,5 +19348,50 @@
 "average_speed": 3.524,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12641944072,
+"name": "Lunch Ride",
+"distance": 1488.1,
+"moving_time": "0:03:16",
+"type": "Ride",
+"start_date": "2024-10-13 04:55:24+00:00",
+"start_date_local": "2024-10-13 12:55:24",
+"location_country": "\u5927\u67f3\u6811\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "cnzrF}p_eUdACrCQzGg@F@bA`BBdEDxA@tAPzFNdJDh@",
+"average_heartrate": 101.4,
+"average_speed": 7.592,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 12641944041,
+"name": "Afternoon Run",
+"distance": 955.6,
+"moving_time": "0:05:49",
+"type": "Run",
+"start_date": "2024-10-13 05:11:37+00:00",
+"start_date_local": "2024-10-13 13:11:37",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 146.9,
+"average_speed": 2.738,
+"source": "strava",
+"streak": 2
+},
+{
+"run_id": 12642031022,
+"name": "Afternoon Run",
+"distance": 424.1,
+"moving_time": "0:01:43",
+"type": "Run",
+"start_date": "2024-10-13 05:59:13+00:00",
+"start_date_local": "2024-10-13 13:59:13",
+"location_country": null,
+"summary_polyline": "",
+"average_heartrate": 119.7,
+"average_speed": 4.117,
+"source": "strava",
+"streak": 2
 }
 ]
