@@ -19453,5 +19453,50 @@
 "average_speed": 1.515,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12753147463,
+"name": "\u5317\u4eac\u5e02, \u5965\u56ed\u4f53\u80b2\u4ff1\u4e50\u90e8 / \u5317\u4eac\u5e02, \u5317\u4eac\u5965\u6797\u5339\u514b\u516c\u56ed",
+"distance": 10015.0,
+"moving_time": "0:55:24",
+"type": "Run",
+"start_date": "2024-10-27 00:05:10+00:00",
+"start_date_local": "2024-10-27 08:05:10",
+"location_country": "\u6797\u8403\u8def, \u671d\u9633\u533a, \u5317\u4eac\u5e02, 100192, \u4e2d\u56fd",
+"summary_polyline": "kkhsFkygeU\\UDI@OIiBIkDKwBGcDOmEIcJ@qFDk@Fa@v@gDVmAL[PMf@GbAHf@@ZAf@Il@UR_@J]Ls@F}@Nk@P_@fAuA\\y@H_@Fc@BiAAi@Gg@Ws@Oi@GgAFoED]HI`@El@@`@Fx@ZXDn@Gx@Ah@G|@f@Zd@`@`@DL?ZE`COpBYlCGfADfBT|BNh@LVj@v@x@z@j@t@vA`Ch@dBPt@NdAb@fFb@jBRh@Zn@`BfCjAzBNN\\XbA`@t@Jn@Ad@Eb@K`Ac@ZW~@eAn@yAfAoDVq@Xg@`AkAR_@Ns@ZaCZeBNk@^_Ad@o@p@g@n@Y~Ak@l@a@NOfBiCP]HUBo@?kBCcASmC@sBDm@LgAx@mCPiBBoAC{@KcA[qAe@cBKu@?u@PiBByCJiBD]Pe@TWRK\\ERDTRd@p@LHLBTGx@k@JMBQEo@eAiEC]?s@ESOYg@g@cAm@kAm@m@Us@Ko@CuAB{JKsCGu@J]Nk@f@y@dAs@n@i@N]DOAQCe@Sk@_@Y[cAiBo@y@[UWISCm@DuAd@QL{@|@c@ZUBm@@WFKJIVy@dEkBvHc@~B?`@LhBIzB?^JlB^`EBb@Af@INg@^y@dAURYD}@Gk@DSEs@S]Ga@Co@@WCMI[]MGa@?_EVkAMMKEQEk@{@kP_BiUo@oIGq@IWQKYAk@J{@T{@P{Aj@gBpAKNQ\\Ur@Ip@G`ABd@RnB`A`FFb@Eh@g@vD_@hBYbAyBlEw@zBINi@l@Yl@St@m@dDK|@Ch@?lCPdDVpIApFNvDH`JBb@j@nDHnAAjBEjC@x@",
+"average_heartrate": 163.7,
+"average_speed": 3.013,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12754003595,
+"name": "\u5317\u4eac\u5e02, \u5317\u4eac\u4ea4\u901a\u5927\u5b66 / \u5317\u4eac\u5e02, \u519c\u79d1\u9662\u5c0f\u533a",
+"distance": 2180.8,
+"moving_time": "0:13:26",
+"type": "Ride",
+"start_date": "2024-10-27 05:20:38+00:00",
+"start_date_local": "2024-10-27 13:20:38",
+"location_country": "\u4ea4\u5927\u4e1c\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100082, \u4e2d\u56fd",
+"summary_polyline": "wyyrF}_beUeB^q@HaCd@q@FWF{Bb@mAX{P~CsA^QAc@POAGFLvB@xABVB~BBXBdBHhCAp@JvD@lBJ|EAb@FjA\\hR",
+"average_heartrate": 111.9,
+"average_speed": 2.706,
+"source": "strava",
+"streak": 1
+},
+{
+"run_id": 12756886421,
+"name": "Evening Walk",
+"distance": 3251.4,
+"moving_time": "0:40:29",
+"type": "Hike",
+"start_date": "2024-10-27 11:22:46+00:00",
+"start_date_local": "2024-10-27 19:22:46",
+"location_country": "\u4e2d\u56fd\u519c\u4e1a\u79d1\u5b66\u9662, \u7682\u541b\u5e99\u8def, \u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "y}{rFqc~dUKaA?QB?Ic@AWGW@SGWMwA?S@AC?BKA]E]?SE[@IEO?GCG?KCu@CIGmAEO?e@Gu@@GKmAAUIo@@WEaAEUC[ISAODKAi@CGCyA@Ad@AHCH@?DBMH?TFJAB@L?DFLCLDRMR?@CH?DEL?TG\\BDCN?JIABt@CPAFERDHCP?NCLBVGX?h@E",
+"average_heartrate": 91.0,
+"average_speed": 1.339,
+"source": "strava",
+"streak": 1
 }
 ]
