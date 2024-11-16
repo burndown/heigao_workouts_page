@@ -19573,5 +19573,20 @@
 "average_speed": 2.351,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12906232667,
+"name": "Night Walk",
+"distance": 2116.0,
+"moving_time": "0:30:33",
+"type": "Hike",
+"start_date": "2024-11-15 13:00:13+00:00",
+"start_date_local": "2024-11-15 21:00:13",
+"location_country": "\u5317\u4e0b\u5173\u8857\u9053, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100081, \u4e2d\u56fd",
+"summary_polyline": "alzrF{s`eUnBhMx@|Eh@pCPn@N^V\\VJhABPCd@OP@JFLPZ|@DDFAf@QLAGDSHMECAMa@GKMGYAkEn@yDRgALo@Dm@Bm@AyBJiCXsAVc@B",
+"average_heartrate": 93.8,
+"average_speed": 1.154,
+"source": "strava",
+"streak": 1
 }
 ]
