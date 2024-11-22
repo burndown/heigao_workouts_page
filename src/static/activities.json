@@ -19663,5 +19663,20 @@
 "average_speed": 2.425,
 "source": "strava",
 "streak": 1
+},
+{
+"run_id": 12950978366,
+"name": "Evening Run",
+"distance": 5014.9,
+"moving_time": "0:33:44",
+"type": "Run",
+"start_date": "2024-11-21 11:59:55+00:00",
+"start_date_local": "2024-11-21 19:59:55",
+"location_country": "\u6e05\u534e\u4e1c\u8def, \u5b66\u9662\u8def\u8857\u9053, \u4e1c\u5347\u9547, \u6d77\u6dc0\u533a, \u5317\u4eac\u5e02, 100084, \u4e2d\u56fd",
+"summary_polyline": "kwbsFyb`eU`ANj@b@LDn@@~@F~@?x@AhABxBGv@B`AQp@AnAGb@B`ARFDDNBZElCLxDDdBGfA?nBE~AChDGh@HlB?EhAQpBE`BMpBI~@GjCAtAGfCWtC?n@EdDCjDBlFK`AK~@C|AC`B@v@A|AM~@C`D?fAEh@@x@?nBInBCbGSlDC|@Bv@EXFd@?pAKlBGv@InAI|FEdB@|BAzAOj@Af@Bj@C\\@\\Ed@AhBMtA@~DKfB@fAClBD~@OdCQlAEnDYl@?TClAEt@?~BQd@AjCWtA?bCO",
+"average_heartrate": 149.7,
+"average_speed": 2.478,
+"source": "strava",
+"streak": 1
 }
 ]
